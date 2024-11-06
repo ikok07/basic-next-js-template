@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "title": "Homepage"
+  },
+  "Metadata": {
+    "Common": {
+      "defaultSuffix": "default_suffix_placeholder"
+    },
+    "HomePage": {
+      "title": "Homepage",
+      "description": "Homepage description"
+    }
+  }
+}

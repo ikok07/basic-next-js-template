@@ -1,0 +1,14 @@
+{
+  "HomePage": {
+    "title": "Начална страница"
+  },
+  "Metadata": {
+    "Common": {
+      "defaultSuffix": "default_suffix_placeholder"
+    },
+    "HomePage": {
+      "title": "Начална страница",
+      "description": "Описание на начална страница"
+    }
+  }
+}
